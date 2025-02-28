@@ -1,4 +1,5 @@
-# Indabax AI Club UTAMU
+# Indabax AI Club UTAMU<br>
+### Where Ur dream AI comes to reality.
 
 Welcome to the official repository for the Indabax AI Club at UTAMU. This repository contains the source code and assets for our club's website.
 
